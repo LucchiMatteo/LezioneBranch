@@ -1,3 +1,8 @@
 Gli alberi sono composti da più rami
 
+I rami sono composti da più foglie
+
 Le foglie sono verdi e marroni
+
+
+
